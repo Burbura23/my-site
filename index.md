@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Резюме pdf
-      link: ./Резюме.pdf
+      link: ./resum.pdf
       target: _blank
     - theme: alt
       text: Мой GitHub
