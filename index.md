@@ -13,8 +13,6 @@ hero:
     - theme: alt
       text: Мой GitHub
       link: https://github.com/Burbura23
-      
-
 
 ---
 
